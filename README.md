@@ -13,3 +13,5 @@ $ git clone https://github.com/dineshadigarla/tinyUrl.git
     - Build Spring project 
     - Open localhost:8080/swagger-ui.html to see endpoints.
 
+Now the deployment is presently in progress in EC2 instance.
+
